@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:-1,Latino: FX
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/28.m3u8
+#EXTINF:-1,Latino: Fox HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/26.m3u8
+#EXTINF:-1,Latino: Fox Action HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
+#EXTINF:-1,Latino: FOX LIFE
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/29.m3u8
+#EXTINF:-1,Latino: AXN HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/34.m3u8
+#EXTINF:-1,Latino: Universal Channel HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/13.m3u8
+#EXTINF:-1,Latino: STUDIO UNIVERSAL
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8
+#EXTINF:-1,Latino: Warner HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/12.m3u8
+#EXTINF:-1,Latino: SONY
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/20.m3u8
+#EXTINF:-1,ES: SYFY
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/18.m3u8
+#EXTINF:-1,Latino: Space HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
+#EXTINF:-1,ES: TNT SPAIN
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/14.m3u8
+#EXTINF:-1,Latino: HBO
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
+#EXTINF:-1,Latino: HBO 2
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
+#EXTINF:-1,Latino: Golden HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/25.m3u8
+#EXTINF:-1,Latino: Cinecanal
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/22.m3u8
+#EXTINF:-1,ES: Paramount
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/21.m3u8
+#EXTINF:-1,Latino: TCM
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/16.m3u8
+#EXTINF:-1,Latino: AMC
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
+#EXTINF:-1,Latino: De Pelicula HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8
+#EXTINF:-1,Latino: A&E HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/36.m3u8
+#EXTINF:-1,iptvtools_37
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1,iptvtools_38
+http://live.cgtn.com/cctv-e.m3u8
+#EXTINF:-1,iptvtools_39
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
+#EXTINF:-1,iptvtools_40
+http://107.189.40.49:1935/live/hispantv/master.m3u8
+#EXTINF:-1,iptvtools_41
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:-1,ES:CALLE 13 HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/33.m3u8
+#EXTINF:-1,iptvtools_50
+http://cast.streamingconnect.com:1935/cscocina/cscocina/playlist.m3u8
+#EXTINF:-1,iptvtools_51
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1,iptvtools_52
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1,iptvtools_53
+http://strm.unicanal.com.py/live/unicanal.m3u8
+#EXTINF:-1,iptvtools_54
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1,iptvtools_57
+https://secure-streams.akamaized.net/rt-esp/index.m3u8
+#EXTINF:-1,Latino: Animal Planet
+http://185.152.66.150:25461/live/culturales/fanstvapp/75.m3u8
+#EXTINF:-1,Latino: H2
+http://185.152.66.150:25461/live/culturales/fanstvapp/68.m3u8
+#EXTINF:-1,Latino: History HD
+http://185.152.66.150:25461/live/culturales/fanstvapp/74.m3u8
+#EXTINF:-1,Latino: Discovery ID
+http://185.152.66.150:25461/live/culturales/fanstvapp/72.m3u8
+#EXTINF:-1,Latino: Discovery Channel
+http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8
+#EXTINF:-1,Latino: DISCOVERY SCIENCE.
+http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8
+#EXTINF:-1,Latino: Discovery Turbo
+http://185.152.66.150:25461/live/culturales/fanstvapp/69.m3u8
+#EXTINF:-1,Latino: DISCOVERY  HOME & HEALTH
+http://185.152.66.150:25461/live/fanstvapp/variedades/3.m3u8
+#EXTINF:-1,iptvtools_67
+http://live10.cdnmedia.tv/mtchlive/smil:mtch.smil/chunklist_b500000.m3u8
+#EXTINF:-1,Latino: BOOMERANG
+http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
+#EXTINF:-1,Latino: Disney Channel
+http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
+#EXTINF:-1,Latino: Disney Junior
+http://185.152.66.150:25461/live/infantiles/fanstvapp/60.m3u8
+#EXTINF:-1,Latino: Disney XD
+http://185.152.66.150:25461/live/infantiles/fanstvapp/59.m3u8
+#EXTINF:-1,ES: Boing
+http://185.152.66.150:25461/live/infantiles/fanstvapp/65.m3u8
+#EXTINF:-1,Latino: TIIN
+http://185.152.66.150:25461/live/infantiles/fanstvapp/54.m3u8
+#EXTINF:-1,Latino: TOONCAST
+http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
+#EXTINF:-1,Latino: CARTOON NETWORK
+http://185.152.66.150:25461/live/infantiles/fanstvapp/67.m3u8
+#EXTINF:-1,ES: Clan Tve
+http://185.152.66.150:25461/live/infantiles/fanstvapp/63.m3u8
+#EXTINF:-1,Latino: NICKELODEON
+http://185.152.66.150:25461/live/infantiles/fanstvapp/58.m3u8
+#EXTINF:-1,Latino: NICK Jr
+http://185.152.66.150:25461/live/infantiles/fanstvapp/57.m3u8
+#EXTINF:-1,ES: BABY TV
+http://185.152.66.150:25461/live/infantiles/fanstvapp/66.m3u8
+#EXTINF:-1,Latino: PANDA
+http://185.152.66.150:25461/live/infantiles/fanstvapp/55.m3u8
+#EXTINF:-1,Latino: Discovery Kids
+http://185.152.66.150:25461/live/infantiles/fanstvapp/62.m3u8
+#EXTINF:-1,iptvtools_82
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1,iptvtools_83
+http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:-1,iptvtools_84
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,Latino: ESPN
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/47.m3u8
+#EXTINF:-1,Latino: ESPN 2
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/45.m3u8
+#EXTINF:-1,Latino: ESPN 3
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/46.m3u8
+#EXTINF:-1,Latino: Fox Sports
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/42.m3u8
+#EXTINF:-1,Latino: Fox Sports 2 HD
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/43.m3u8
+#EXTINF:-1,ES:Canal  LIGA HD
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/41.m3u8
+#EXTINF:-1,ES : MOVISTAR FORMULA 1
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/40.m3u8
+#EXTINF:-1,iptvtools_96
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1,ES : movistar Futbol
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/39.m3u8
+#EXTINF:-1,ES: Real Madrid Channel
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/38.m3u8
+#EXTINF:-1,iptvtools_99
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:-1,Latino: WIN SPORT HD
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
+#EXTINF:-1,iptvtools_103
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
+#EXTINF:-1,iptvtools_106
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_282_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,iptvtools_107
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,iptvtools_108
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1,iptvtools_109
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
